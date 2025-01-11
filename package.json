@@ -5,7 +5,8 @@
   "scripts": {
     "start": "nodemon backend/server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "echo 'No build required'"
+    "build": "echo 'No build required'",
+    "dev": "nodemon backend/server.js"
   },
   "keywords": [],
   "author": "",
